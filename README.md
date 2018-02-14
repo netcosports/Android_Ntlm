@@ -1,7 +1,7 @@
 # Android_Ntlm
 NT LAN Manager (NTLM) implementation for Okhttp
 
-**Min SDK:** 14
+**Min SDK:** 15
 
 ## Installation
 
