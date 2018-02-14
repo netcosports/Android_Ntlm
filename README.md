@@ -19,3 +19,11 @@ TapTargetView is distributed using [jitpack.io](https://jitpack.io/).
 	        implementation 'com.github.netcosports:Android_Ntlm:1.0'
 	}
 ```
+
+### Simple usage
+
+```java
+OkHttpClient client = new OkHttpClient.Builder()
+                .authenticator(new NTLMAuthenticator(userName, password, null))
+                .build();
+```
