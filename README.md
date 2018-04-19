@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/netcosports/Android_Ntlm.svg)](https://jitpack.io/#netcosports/Android_Ntlm)
+
 # Android_Ntlm
 NT LAN Manager (NTLM) implementation for Okhttp
 
